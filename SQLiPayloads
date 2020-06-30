@@ -1,3 +1,4 @@
+Basic payloads to test for sql injection:
 ' or "
 -- or # 
 ' OR '1
